@@ -1,0 +1,1 @@
+in this file you can see the words typed, every time the object hit space the word go to head
